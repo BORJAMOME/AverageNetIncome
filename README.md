@@ -24,9 +24,12 @@ To run the code in this repository, you need the following R packages installed:
 - scales
 - showtext
 
+  
+
+<img width="1031" alt="Income_Spain" src="https://github.com/BORJAMOME/AverageNetIncome/assets/19588053/383e5821-77a7-459b-83f9-171a0bcc04f0">
+
+
 ## Author
 
 This analysis was conducted by Borja Mora.
-
-<img width="645" alt="Income_Spain" src="https://github.com/BORJAMOME/AverageNetIncome/assets/19588053/1520ad4d-0eda-42ec-8796-a2f25fd4e518">
 
