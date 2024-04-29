@@ -28,4 +28,5 @@ To run the code in this repository, you need the following R packages installed:
 
 This analysis was conducted by Borja Mora.
 
+<img width="645" alt="Income_Spain" src="https://github.com/BORJAMOME/AverageNetIncome/assets/19588053/1520ad4d-0eda-42ec-8796-a2f25fd4e518">
 
