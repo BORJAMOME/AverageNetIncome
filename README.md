@@ -1,4 +1,6 @@
 # Municipal Income Analysis in Spain
+  <img src="https://img.shields.io/badge/Language-R-blue" alt="Language">
+
 
 This repository contains R code for analyzing municipal income data in Spain for the year 2019.
 
