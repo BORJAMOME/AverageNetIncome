@@ -2,6 +2,8 @@
 
 Este proyecto tiene como objetivo visualizar la renta neta media por persona a nivel municipal en España para el año 2019. Utiliza varias librerías de R para la manipulación de datos, visualización y diseño gráfico.
 
+<img width="1265" alt="Screenshot 2024-05-21 at 10 56 41" src="https://github.com/BORJAMOME/Average_net_income/assets/19588053/78509dad-4001-415c-80d1-faae31efe7ad">
+
 ## Requisitos
 
 Asegúrate de tener instaladas las siguientes librerías antes de ejecutar el código:
